@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00c13531-bc4a-456d-8404-41c33c423920": {
+      "ProjectGuid": "00c13531-bc4a-456d-8404-41c33c423920",
+      "DisplayName": "WebApiETITC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
